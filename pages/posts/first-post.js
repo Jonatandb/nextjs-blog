@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Head from 'next/head'
-import Layout from '../../components/layout'
+import Layout from '../../components/Layout'
 import styles from './first-post.module.css'
 
 function FirstPost(props) {
@@ -9,7 +9,7 @@ function FirstPost(props) {
     return (
         <Layout>
             <Head>
-                <title>First post page</title>
+                <title>First post page!</title>
             </Head>
             <h1 className={styles.container}>First Post</h1>
             <h2>
