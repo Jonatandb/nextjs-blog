@@ -62,6 +62,14 @@ Here’s an example of the final result: - https://next-learn-starter.now.sh [(s
 
 ---
 
+[Deploying Your Next.js App](https://nextjs.org/learn/basics/deploying-nextjs-app)
+
+- How to deploy your Next.js app to [Vercel](https://vercel.com/).
+- The DPS Workflow: Develop, Preview, and Ship.
+- How to deploy your Next.js app to your own hosting provider.
+
+---
+
 Other visited sites:
 
 - [Sass Basics](https://sass-lang.com/guide)

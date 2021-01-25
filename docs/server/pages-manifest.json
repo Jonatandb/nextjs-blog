@@ -1,0 +1,10 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/api/jonatandb": "pages/api/jonatandb.js",
+  "/": "pages/index.js",
+  "/posts/[id]": "pages/posts/[id].js",
+  "/posts/first-post": "pages/posts/first-post.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
