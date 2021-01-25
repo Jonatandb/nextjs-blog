@@ -1,13 +1,13 @@
 import Head from 'next/head'
-import Layout from '../components/Layout'
+import MainLayout from '../components/MainLayout'
 
 export default function Custom404() {
     return (
-        <Layout>
+        <MainLayout>
             <Head>
                 <title>404 - Page Not Found</title>
             </Head>
             <h1>404 - Page Not Found 😥</h1>
-        </Layout>
+        </MainLayout>
     )
 }

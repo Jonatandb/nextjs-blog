@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Layout, { siteTitle } from '../components/Layout'
+import MainLayout, { siteTitle } from '../components/MainLayout'
 import utilStyles from '../styles/utils.module.scss'
 import { getFreeAPIList, getSortedPostsData } from '../lib/posts'
 import Blogs from '../components/Blogs'
@@ -18,7 +18,7 @@ export async function getStaticProps() {
 
 export default function Home({ allPostsData, freeAPIList }) {
   return (
-    <Layout home>
+    <MainLayout home>
       <Head>
         <title>{siteTitle}</title>
       </Head>
@@ -27,6 +27,6 @@ export default function Home({ allPostsData, freeAPIList }) {
       </section>
       <Blogs allPostsData={allPostsData} />
       <Apis freeAPIList={freeAPIList} />
-    </Layout>
+    </MainLayout>
   )
 }
