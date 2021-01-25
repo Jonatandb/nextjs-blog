@@ -39,3 +39,29 @@ Pre-rendering and Data Fetching
 - Static Generation [with data](https://nextjs.org/docs/basic-features/pages#static-generation-with-data), and [without data](https://nextjs.org/docs/basic-features/pages#static-generation-without-data).
 - [\`getStaticProps\`](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation) and how to use it to import external blog data into the index page.
 - Some useful information on [\`getStaticProps\`](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation).
+
+---
+
+Dynamic Routes
+
+- How to statically generate pages with [dynamic routes](https://nextjs.org/docs/routing/dynamic-routes) using [\`getStaticPaths\`](https://nextjs.org/docs/basic-features/data-fetching#getstaticpaths-static-generation).
+- How to write getStaticProps to fetch the data for each blog post.
+- How to render markdown using [\`remark\`](https://github.com/remarkjs/remark).
+- How to pretty-print date strings.
+- How to link to a page with [dynamic routes](https://nextjs.org/docs/routing/dynamic-routes).
+- Some useful information on [dynamic routes](https://nextjs.org/docs/routing/dynamic-routes).
+
+---
+
+Other sites visited:
+
+- [Sass Basics](https://sass-lang.com/guide)
+- [Disable JavaScript With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/disable)
+- [Duplicate meta tags when using Head both in custom document and page](https://github.com/vercel/next.js/issues/9794)
+- [A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
+- [Public API for the public-apis Github project](https://github.com/davemachado/public-api)
+- [Random User Generator | Home](https://randomuser.me/)
+- [APOD API](https://apodapi.herokuapp.com/)
+- [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap210124.html)
+- [date-fns - Modern JavaScript date utility library](https://date-fns.org/)
+- [Favicon.io](https://favicon.io/favicon-converter/)

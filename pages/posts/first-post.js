@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Head from 'next/head'
 import Layout from '../../components/Layout'
-import styles from './first-post.module.css'
+import styles from './first-post.module.scss'
 
 function FirstPost(props) {
     // console.log(JSON.stringify(props, null, 2))
@@ -11,12 +11,7 @@ function FirstPost(props) {
             <Head>
                 <title>First post page!</title>
             </Head>
-            <h1 className={styles.container}>First Post</h1>
-            <h2>
-                <Link href="/">
-                    <a>Back to home</a>
-                </Link>
-            </h2>
+            <h1 className={styles.container}>There's nothing here 😂</h1>
         </Layout>
     )
 }
