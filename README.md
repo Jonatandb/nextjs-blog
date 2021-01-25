@@ -82,3 +82,4 @@ Other visited sites:
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap210124.html)
 - [date-fns - Modern JavaScript date utility library](https://date-fns.org/)
 - [Favicon.io](https://favicon.io/favicon-converter/)
+- [Static HTML Export](https://nextjs.org/docs/advanced-features/static-html-export)
