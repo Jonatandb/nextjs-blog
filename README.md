@@ -82,4 +82,6 @@ Other visited sites:
 - [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap210124.html)
 - [date-fns - Modern JavaScript date utility library](https://date-fns.org/)
 - [Favicon.io](https://favicon.io/favicon-converter/)
+- [Deploying a Next.js app to GitHub Pages](https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn)
 - [Static HTML Export](https://nextjs.org/docs/advanced-features/static-html-export)
+- [Stylesheet not included in `next export` build #3712](https://github.com/vercel/next.js/issues/3712)
