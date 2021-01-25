@@ -6,6 +6,8 @@ This free interactive course will guide you through how to get started with Next
 
 ---
 
+[Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app)
+
 In this tutorial:
 
 - You’ll learn Next.js basics by creating a very simple blog app.
@@ -14,7 +16,7 @@ Here’s an example of the final result: - https://next-learn-starter.now.sh [(s
 
 ---
 
-Navigate Between Pages
+[Navigate Between Pages](https://nextjs.org/learn/basics/navigate-between-pages)
 
 - Create a new page using the integrated [file system routing](https://nextjs.org/docs/routing/introduction).
 - Learn how to use the [\`Link\`](https://nextjs.org/docs/api-reference/next/link) component to enable client-side navigation between pages.
@@ -22,7 +24,7 @@ Navigate Between Pages
 
 ---
 
-Assets, Metadata, and CSS
+[Assets, Metadata, and CSS](https://nextjs.org/learn/basics/assets-metadata-css)
 
 - How to add [static files](https://nextjs.org/docs/basic-features/static-file-serving) (images, etc) to Next.js.
 - How to customize what goes inside the \<head\> for each page.
@@ -32,7 +34,7 @@ Assets, Metadata, and CSS
 
 ---
 
-Pre-rendering and Data Fetching
+[Pre-rendering and Data Fetching](https://nextjs.org/learn/basics/data-fetching)
 
 - Next.js’ [pre-rendering](https://nextjs.org/docs/basic-features/pages#pre-rendering) feature.
 - The two forms of pre-rendering: [Static Generation](https://nextjs.org/docs/basic-features/pages#static-generation-recommended) and [Server-side Rendering](https://nextjs.org/docs/basic-features/pages#server-side-rendering).
@@ -42,7 +44,7 @@ Pre-rendering and Data Fetching
 
 ---
 
-Dynamic Routes
+[Dynamic Routes](https://nextjs.org/learn/basics/dynamic-routes)
 
 - How to statically generate pages with [dynamic routes](https://nextjs.org/docs/routing/dynamic-routes) using [\`getStaticPaths\`](https://nextjs.org/docs/basic-features/data-fetching#getstaticpaths-static-generation).
 - How to write getStaticProps to fetch the data for each blog post.
@@ -53,7 +55,14 @@ Dynamic Routes
 
 ---
 
-Other sites visited:
+[API Routes](https://nextjs.org/learn/basics/api-routes)
+
+- How to create an API Route.
+- Some useful information on [API Routes](https://nextjs.org/docs/api-routes/introduction).
+
+---
+
+Other visited sites:
 
 - [Sass Basics](https://sass-lang.com/guide)
 - [Disable JavaScript With Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/disable)
