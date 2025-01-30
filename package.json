@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://jonatandb.github.io/nextjs-blog/",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,13 +13,14 @@
     "export": "next build && next export && cp -R ./.next/static ./out/_next/static/"
   },
   "dependencies": {
-    "date-fns": "^2.16.1",
-    "gray-matter": "^4.0.2",
-    "next": "^10.0.0",
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
-    "remark": "^13.0.0",
-    "remark-html": "^13.0.1",
-    "sass": "^1.32.5"
+    "date-fns": "2.16.1",
+    "gray-matter": "4.0.2",
+    "next": "14.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remark": "13.0.0",
+    "remark-html": "13.0.1",
+    "sass": "1.32.5"
   }
 }
+
